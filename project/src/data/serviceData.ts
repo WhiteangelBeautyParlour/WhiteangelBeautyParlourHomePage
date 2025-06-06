@@ -21,12 +21,12 @@ export const serviceData: Service[] = [
     title: 'Hair Oils & Head Massage',
     emoji: '💆‍♀️',
     items: [
-      { name: 'COCONUT OIL', prices: [{ value: 100 }] },
-      { name: 'OLIVE OIL', prices: [{ value: 250 }] },
-      { name: 'ALMOND OIL', prices: [{ value: 300 }] },
-      { name: 'AMARAVATI OIL', prices: [{ value: 600 }] },
-      { name: 'MIX OIL', prices: [{ value: 350 }] },
-      { name: 'Head Massage', prices: [{ value: 350 }] },
+      { name: 'COCONUT OIL', prices: [{ value: 350 }] },
+      { name: 'OLIVE OIL', prices: [{ value: 400 }] },
+      { name: 'ALMOND OIL', prices: [{ value: 400 }] },
+      { name: 'AMARAVATI OIL', prices: [{ value: 400 }] },
+      { name: 'MIX OIL', prices: [{ value: 400 }] },
+      { name: 'Head Massage', prices: [{ value: 400 }] },
     ]
   },
   {
